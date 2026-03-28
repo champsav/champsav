@@ -8,7 +8,7 @@ I am interested in AI research, especially deep learning, generative modeling, r
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thibaud_de_Champsavin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/thibaudechampsavin/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thibaud_de_Champsavin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/thibaudechampsavin/)]
 
 ## 💼 Experience
 

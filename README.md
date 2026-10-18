@@ -1,8 +1,8 @@
-# Hi, there 👋
+#  👋 Hi there
 
-I'm Thibaud, an AI Research intern at Instadeep. I am graduate from KTH and École Polytechnique in Paris in AI Research.
+I'm Thibaud, an AI Research Engineer intern at InstaDeep. I graduated from KTH and École Polytechnique in Paris.
 
-At Instadeep, I'm developing RL agents in order to solve dynamic crew dispatching in airport ground handling using Jax framework.
+At InstaDeep, I’m developing reinforcement learning agents in JAX for dynamic crew dispatching in airport ground handling.
 
 Past experiences include a research internship at **KAVLI IPMU, University of Tokyo**, where I worked on differentiable hydrodynamic simulation for cosmological applications using hybrid physics-AI approaches in JAX.
 
@@ -13,8 +13,8 @@ I am interested in AI research, especially deep learning, generative modeling, r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thibaud_de_Champsavin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thibaudechampsavin/)
 ## 💼 Experience
 
-- **Instadeep, Paris** - Research Engineer Intern - 2026
--  **KAVLI IPMU, University of Tokyo, Japan** — Research Intern — 2025
+- **InstaDeep, Paris** - Research Engineer Intern - 2026
+- **KAVLI IPMU, University of Tokyo, Japan** — Research Intern — 2025
 
 ## 🎓 Education
 
